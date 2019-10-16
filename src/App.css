@@ -17,6 +17,13 @@
   color: white;
 }
 
+fieldset {
+  background-color: turquoise;
+}
 .App-link {
   color: #09d3ac;
+}
+
+button {
+  background-color: lightcoral;
 }
